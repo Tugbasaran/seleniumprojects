@@ -1,0 +1,5 @@
+2023-08-01 12:44:38,126 INFO c.m.u.LoggerUtils [main] Go to homepage
+2023-08-01 12:44:48,935 INFO c.m.u.LoggerUtils [main] hover over opportunities
+2023-08-01 12:44:51,492 INFO c.m.u.LoggerUtils [main] click on career coaching
+2023-08-01 12:44:52,156 ERROR c.m.u.LoggerUtils [main] come back to homepage
+2023-08-01 12:44:52,309 INFO c.m.u.LoggerUtils [main] hover over opportunities
